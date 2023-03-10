@@ -1,10 +1,10 @@
 # ReactNative201
 <b>Turkcell Akademi - React Native 201 Eğitimi </b><br/>
-   <b> -Memoizing </b><br/>
-      *React.memo
+  <b>-Memoizing </b><br/>
+      -React.memo
       -useMemo
       -useCallback
-    -React Native CLI ile GraphQL Uygulamaları Geliştirmek <br/>
+    <h4>-React Native CLI ile GraphQL Uygulamaları Geliştirmek</h4> <br/>
       -Projenin Oluşturulması
       -React Navigation Kurulumu
       -Apollo Client Kurulumu
