@@ -4,7 +4,9 @@
        React.memo,
        useMemo ve
        useCallback
-    -React Native CLI ile GraphQL Uygulamaları Geliştirmek <br/>
+      <b>Kamera Kullanımı</b><br/>
+      <b>Haritalar</b><br/>
+    <b>React Native CLI ile GraphQL Uygulamaları Geliştirmek <b/><br/>
       -Projenin Oluşturulması
       -React Navigation Kurulumu
       -Apollo Client Kurulumu
