@@ -7,16 +7,16 @@
       <b>Kamera Kullanımı</b><br/>
       <b>Haritalar</b><br/>
     <b>React Native CLI ile GraphQL Uygulamaları Geliştirmek </b><br/>
-      -Projenin Oluşturulması
-      -React Navigation Kurulumu
-      -Apollo Client Kurulumu
-      -useQuery
-      -Listeleme İşlemleri
-      -Liste Bileşeninin Geliştirilmesi
-      -Tema Tanımları ve Loading Bileşeni
-      -Detay Ekranı Hazırlanması
-      -Detay Ekranı için GraphQL Sorgusu
-      -GraphQL Query Dosyalarının Hazırlanması
-      -Etiketlerin Gösterilmesi
-      -Dönüşümlerin Gösterilmesi
+      -Projenin Oluşturulması</br>
+      -React Navigation Kurulumu</br>
+      -Apollo Client Kurulumu</br>
+      -useQuery</br>
+      -Listeleme İşlemleri</br>
+      -Liste Bileşeninin Geliştirilmesi</br>
+      -Tema Tanımları ve Loading Bileşeni</br>
+      -Detay Ekranı Hazırlanması</br>
+      -Detay Ekranı için GraphQL Sorgusu</br>
+      -GraphQL Query Dosyalarının Hazırlanması</br>
+      -Etiketlerin Gösterilmesi</br>
+      -Dönüşümlerin Gösterilmesi</br>
 
