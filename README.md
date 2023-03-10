@@ -1,6 +1,6 @@
 # ReactNative201
 <b>Turkcell Akademi - React Native 201 Eğitimi </b><br/>
-    -Memoizing <br/>
+   <b> -Memoizing </b><br/>
       -React.memo
       -useMemo
       -useCallback
